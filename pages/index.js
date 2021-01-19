@@ -25,6 +25,7 @@ $(".slider").slick({
       breakpoint: 1200,
       settings: {
         slidesToShow: 1,
+        slidesToScroll: 1,
       },
     },
   ],
