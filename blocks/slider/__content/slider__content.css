@@ -1,0 +1,10 @@
+.slider__content {
+  background: #ffffff;
+  border: 1px solid #d8d8d8;
+  box-sizing: border-box;
+  padding: 34px 27px;
+  height: 243px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
