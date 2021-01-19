@@ -1,3 +1,33 @@
 .slider__bullets {
-  top: calc(90% + 33px);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.slider__bullets li {
+  display: inline;
+  list-style: none;
+}
+
+.slider__bullets li button {
+  width: 30px;
+  height: 0;
+  font-size: 0;
+  outline: none;
+  border: none;
+  background: none;
+  width: 12px;
+  margin: 0 9px;
+  cursor: pointer;
+}
+
+.slider__bullets li button:before {
+  font-size: 45px;
+  color: #cacaca;
+  content: "•";
+}
+.slider__bullets li button:hover:before,
+.slider__bullets .slick-active button:before {
+  color: #d51522;
 }

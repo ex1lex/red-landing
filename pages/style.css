@@ -33,12 +33,12 @@
 @import url(../blocks/news/__btn/news__btn.css);
 @import url(../blocks/slider/slider.css);
 @import url(../blocks/slider/__bullets/slider__bullets.css);
-@import url(../blocks/slider/__bullet/slider__bullet.css);
-@import url(../blocks/slider/__bullet-active/slider__bullet-active.css);
 @import url(../blocks/slider/__slide/slider__slide.css);
 @import url(../blocks/slider/__content/slider__content.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
 @import url(../blocks/menu-bottom/menu-bottom.css);
+@import url(../blocks/menu-bottom/__list/menu-bottom__list.css);
 @import url(../blocks/menu-bottom/__item/menu-bottom__item.css);
 @import url(../blocks/menu-bottom/__link/menu-bottom__link.css);

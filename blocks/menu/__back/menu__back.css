@@ -1,6 +1,10 @@
+.menu__back {
+  padding: 0;
+  margin: 0;
+}
 @media (max-width: 1010px) {
   .menu__back {
     background: #ffffff;
-    padding: 25px 0 33px 0;
+    padding: 89px 0 33px 0;
   }
 }

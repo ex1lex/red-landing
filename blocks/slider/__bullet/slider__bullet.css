@@ -1,9 +1,0 @@
-.slider__bullet {
-  background: #cacaca;
-}
-
-.slider__bullet:hover,
-.slider__bullet:focus {
-  background: #d51522;
-  border: none;
-}
